@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 Fruji Hataichi
+# 🌙 Fruji Hitachi
 
 ### 「静かに進め。結果に語らせろ。」
 #### Move quietly. Let the results speak.
@@ -16,7 +16,7 @@
 ## 🐺 About Me
 
 ```txt
-Name        : Fruji Hataichi
+Name        : Fruji Hitachi
 Username    : Frujih-Ouh-jpg
 Role        : Developer / Builder
 Mindset     : Learn → Build → Improve → Repeat
