@@ -38,7 +38,7 @@ I just need to know more than I did yesterday.
 ┌──(fruji㉿github)-[~]
 └─$ neofetch
 
-         ███████╗██████╗ ██╗   ██╗     Fruji Hataichi
+         ███████╗██████╗ ██╗   ██╗     Fruji Hitachi
          ██╔════╝██╔══██╗██║   ██║     ----------------
          █████╗  ██████╔╝██║   ██║     OS: Developer
          ██╔══╝  ██╔══██╗██║   ██║     Shell: curiosity
